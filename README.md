@@ -1,17 +1,17 @@
-### Hi there 👋
-* Update 예정
+### Welcome to Sungwoo's Github Profile 👋
 
-<!--
-**MinsoftK/MinsoftK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=read-the-docs&link=#)](#)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech_Blog-mint?style=flat-square&logo=blogger&logoColor=white&link=https://minsoftk.tistory.com/)](https://minsoftk.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cos18/)](https://www.linkedin.com/in/cos18/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minsoftk@gmail.com)](mailto:minsoftk@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 경력
+- 42 Seoul Cadet since Dec 2020
+- Kyunghee Univ. graduated at Feb 2021 (major in Computer engineering)
+
+### 기술/스택
+
+- 💻 CS with C (in 42)
+
+[![MinsoftK's github stats](https://github-readme-stats.vercel.app/api?username=minsoftk&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
