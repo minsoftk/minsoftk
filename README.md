@@ -1,4 +1,4 @@
-### Welcome to Minsoftk's Github Profile 👋
+### Minsoftk's Github Profile 👋
 
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=read-the-docs&link=#)](#)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech_Blog-mint?style=flat-square&logo=blogger&logoColor=white&link=https://minsoftk.tistory.com/)](https://minsoftk.tistory.com/)
