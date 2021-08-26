@@ -9,7 +9,7 @@
 ### I'm currently learning
 
 - 💻 CS with C (in 42)
-- Modern JS
-- 🕸 React
+- 🌳 Modern JS
+- 🥊 React
 
 [![MinsoftK's github stats](https://github-readme-stats.vercel.app/api?username=minsoftk&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
