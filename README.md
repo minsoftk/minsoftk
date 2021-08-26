@@ -2,7 +2,7 @@
 
 
 
-### 경력
+### Education.
 - 42 Seoul Cadet since Dec 2020
 - Kyunghee Univ. graduated at Feb 2021 (major in Computer engineering)
 
